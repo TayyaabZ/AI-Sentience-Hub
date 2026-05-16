@@ -1,0 +1,7 @@
+pygame-ce
+numpy
+scikit-learn
+scipy
+pillow
+joblib
+psutil
