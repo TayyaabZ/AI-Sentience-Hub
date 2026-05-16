@@ -180,13 +180,11 @@ psutil
 
 ---
 
-## Authors
+## Author
 
-| Name | Enrollment | Responsibilities |
-|---|---|---|
-| Anood Tayyeba Imtiaz | 01-135232-010 | GUI Architecture, Main Hub Menu, Crypto-Glyph Interface |
-| Muhammad Tayyaab Zahoor | 01-135232-070 | A\* Pathfinding, Minimax Logic, ML Model Training |
-| Both | — | Genetic Algorithm Logic, Fitness Functions, Dungeon Generation |
+| Name | Enrollment |
+|---|---|
+| Muhammad Tayyaab Zahoor | 01-135232-070 |
 
 ---
 
